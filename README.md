@@ -3,8 +3,6 @@
 
 [Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
